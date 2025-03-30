@@ -1,2 +1,2 @@
 # Alurabook
-Portifolio feio no curso de responsividade da Alura
+Portifolio feito no curso de responsividade da Alura
